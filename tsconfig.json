@@ -21,6 +21,7 @@
       "~/*": ["./src/*"]
     }
   },
+  "baseUrl": ".",
   "include": [
     ".eslintrc.cjs",
     "next-env.d.ts",
